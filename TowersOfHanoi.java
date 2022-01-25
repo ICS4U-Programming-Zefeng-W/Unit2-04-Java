@@ -1,6 +1,7 @@
 /*
- * This program reads the input.txt file and uses a recursive binary search function to
- * find the index of a specific element. It will then output the index to output.txt.
+ * This program reads the input.txt file and uses a recursive function to calculate and output
+ * the list of steps needed to move all of the disks in the from peg 1 to peg 3 
+ * in the Tower of Hanoi puzzle.
  *
  * By Zefeng Wang
  * Created on January 24, 2022*
